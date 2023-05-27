@@ -10,7 +10,7 @@
 - I have interest and looking to collaborate on Cloud Computing, Linux Server, Windows, CentOs, Redhat,Ansible, 
 - Kubernetes, Terraforms, Shell Configurations, Firewalls Configurations and other Information Security tools.
 
-- 📫 You can reach me on linkedin with Bolaji Oluseye (https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BenjIgADsR3SV1tV4BDIGfA%3D%3D). 
+- 📫 You can reach me on linkedin with Bolaji Oluseye (linkedin.com/in/bolaji-oluseye-b7127b174). 
 
 <!---
 bheejhay/bheejhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
